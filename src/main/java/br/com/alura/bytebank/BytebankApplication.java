@@ -70,6 +70,7 @@ public class BytebankApplication {
         teclado.next();
     }
 
+
     private static void abrirConta() {
         System.out.println("Digite o número da conta:");
         var numeroDaConta = teclado.nextInt();
